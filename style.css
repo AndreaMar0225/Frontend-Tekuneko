@@ -6,7 +6,7 @@ body
 
 {
 
-    background-image: url("../Imagenespagina/fondo1.jpg");
+    background-image: url("Imagenespagina/fondo1.jpg");
     background-size: cover;
       
 }
@@ -96,6 +96,16 @@ width: 350px;
     color: black;
     font-size-adjust: Helvetica;
 
+}
+
+.breadcrumb-container {
+    margin-top: 120px; 
+    margin-left: 20px;
+}
+
+.breadcrumb-link{
+    color: white; 
+    text-decoration: none;
 }
    
 
