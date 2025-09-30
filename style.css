@@ -1,3 +1,7 @@
+/* Modal descripción */
+.modal-body {
+    font-size: 1.3rem;
+}
 body
 
 {
@@ -85,3 +89,18 @@ width: 350px;
     margin-top: 0px;
     text-align: center;     
 }
+
+/* Modal */
+.custom-modal{
+     background-color: white;
+    color: black;
+    font-size-adjust: Helvetica;
+
+}
+   
+
+
+
+
+
+
