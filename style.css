@@ -1,0 +1,87 @@
+body
+
+{
+
+    background-image: url("../Imagenespagina/fondo1.jpg");
+    background-size: cover;
+      
+}
+
+.section-header {
+    margin-top: 40px;
+}
+
+
+.btn-agregar {     
+    float: right; 
+}
+
+
+.table-total {
+    background-color:black;
+    color:white;
+    
+}
+
+a {
+      text-decoration: none; 
+    }
+
+/* Tamaño iconos */
+    .footer-social-icons i {
+  font-size: 1.5rem; 
+}
+
+/* Html Nosotros */
+.nnosotros {
+    margin-left: 10px;
+    margin-top: 150px;
+width: 350px;
+
+}
+
+/* Html Servicios */
+.servicio {
+    margin-left: 20px;
+}
+
+.servicio-margin-top {
+    margin-top: 10px;
+}
+
+.espacio-debajo{
+    padding-bottom: 10%;
+}
+
+/* Titulo y parrafos Servicios */
+.titulo-servicio{
+ margin-top: 150px;   
+ font-size: 36px;
+ margin-bottom: 20px;
+ text-align: center;
+
+}
+
+.descripcion-servicio{
+    font-size: 25px;
+    margin-top: 0px;
+    text-align: justify;
+  }
+
+.cantidad{
+    font-size: 20px;
+    margin-top: 80px;
+    text-align: justify;     
+}
+
+.precio{
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: center;     
+}
+
+.descuento{
+    font-size: 20px;
+    margin-top: 0px;
+    text-align: right;     
+}
