@@ -107,6 +107,23 @@ width: 350px;
     color: white; 
     text-decoration: none;
 }
+
+/* Carrusel */
+
+.carrusel-principal {
+  width: 80%;
+  max-width: 800px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+}
    
 
 
